@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "database": ".\\app\\data.sqlite",
+            "dialect": "SQLite",
+            "name": "test"
+        },
+        {
+            "database": ".\\app\\data.sqlite",
+            "dialect": "SQLite",
+            "name": "test"
+        }
+    ],
+    "python.pythonPath": "env\\Scripts\\python.exe"
+}
